@@ -31,7 +31,7 @@
    <scm>
       <connection>scm:git:https://github.com/Anirudha2411/MavenHelloWorldProject.git</connection>
       <developerConnection>scm:git:https://github.com/Anirudha2411/MavenHelloWorldProject.git</developerConnection>
-      <tag>Project_1.0</tag>
+      <tag>Project_1.0.0</tag>
    </scm>
    	<build>
 		<plugins>
